@@ -1,8 +1,8 @@
 title: ""
 remote_theme: just-the-docs/just-the-docs
 
-url: "https://ylin0504.github.io"
-baseurl: "/dorahacks"
+url: "https://helloDoraHacks.github.io"
+baseurl: "/dorahacks-wiki"
 
 logo: "/assets/logo.png"
 logo_width: 160
