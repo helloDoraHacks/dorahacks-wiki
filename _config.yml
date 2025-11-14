@@ -1,0 +1,17 @@
+title: ""
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://ylin0504.github.io"
+baseurl: "/dorahacks"
+
+logo: "/assets/logo.png"
+logo_width: 160
+
+permalink: pretty   # ← 就是它！
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+just_the_docs:
+  search_enabled: true
