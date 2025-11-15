@@ -1,57 +1,26 @@
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  var toggles = document.querySelectorAll(".nav-list-expander");
-  toggles.forEach(function (btn) {
-    if (btn.getAttribute("aria-expanded") === "false") {
-      btn.click();
-    }
-  });
-});
-</script>
-
-
 <style>
+/* 灰色底的引用块（👇 BUIDL AI is here to help you! 用这个效果） */
 blockquote {
   background: #f8f9fa;
   padding: 16px 20px;
   border-radius: 8px;
   border-left: 4px solid #ccc;
+  margin: 1.25rem 0;
 }
-</style>
 
+/* 左侧导航：强制所有子目录展开 */
+.nav-list .nav-list[data-hidden] {
+  display: block !important;
+}
 
-<style>
-/* Hide the default site title text completely */
+/* 展开的箭头方向（可选，主要是视觉统一一点） */
+.nav-list-expander {
+  transform: rotate(90deg);
+}
+
+/* 隐藏默认站点标题文字（只用 logo）*/
 .site-title {
   font-size: 0 !important;
 }
 
-
-}
 </style>
-
-
-<style>
-/* 正文链接：黑色 + 下划线 */
-.page-content a,
-.page-content a:visited {
-  color: #000000;
-  text-decoration: underline;
-}
-.page-content a:hover,
-.page-content a:focus {
-  color: #000000;
-  text-decoration: underline;
-}
-</style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  // 找到所有带展开按钮的目录项
-  var expanders = document.querySelectorAll(".nav-list-expander[aria-expanded='false']");
-  expanders.forEach(function (btn) {
-    // 模拟点击，把它们全部展开
-    btn.click();
-  });
-});
-</script>
