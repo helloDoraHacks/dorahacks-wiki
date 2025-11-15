@@ -15,3 +15,4 @@ plugins:
 
 just_the_docs:
   search_enabled: true
+  nav_auto_expand: true
