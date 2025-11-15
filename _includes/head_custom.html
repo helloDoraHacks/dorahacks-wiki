@@ -1,3 +1,15 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var toggles = document.querySelectorAll(".nav-list-expander");
+  toggles.forEach(function (btn) {
+    if (btn.getAttribute("aria-expanded") === "false") {
+      btn.click();
+    }
+  });
+});
+</script>
+
+
 <style>
 blockquote {
   background: #f8f9fa;
