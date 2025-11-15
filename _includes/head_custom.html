@@ -44,3 +44,14 @@ blockquote {
   text-decoration: underline;
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 找到所有带展开按钮的目录项
+  var expanders = document.querySelectorAll(".nav-list-expander[aria-expanded='false']");
+  expanders.forEach(function (btn) {
+    // 模拟点击，把它们全部展开
+    btn.click();
+  });
+});
+</script>
