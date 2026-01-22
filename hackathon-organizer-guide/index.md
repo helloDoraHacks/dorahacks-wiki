@@ -6,10 +6,6 @@ has_children: true
 
 # Hackathon Organizer’s Guide
 
-Step by step operational guides for organizing, running, and scaling hackathons on DoraHacks.
-
----
-
 Step by step operational guides for organizing, managing, and scaling hackathons on DoraHacks. Click the card to read the full article. 
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
