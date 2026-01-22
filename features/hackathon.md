@@ -53,7 +53,7 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   onclick="window.open('https://dorahacks.io/blog/guides/hackathon-ai/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks/main/assets/hackathon-ai.jpg"
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/hackathon-ai.jpg"
     alt="Hackathon AI"
   />
   <div class="guide-card-content">
@@ -72,7 +72,7 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   onclick="window.open('https://dorahacks.io/blog/news/hackathon-judge-2/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks/main/assets/external-judges.jpg"
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/external-judges.jpg"
     alt="External Judges"
   />
   <div class="guide-card-content">
@@ -89,7 +89,7 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   onclick="window.open('https://dorahacks.io/blog/news/fah-dorahacks-product-update/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks/main/assets/fah.jpg"
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/fah.jpg"
     alt="FAH Mode"
   />
   <div class="guide-card-content">
