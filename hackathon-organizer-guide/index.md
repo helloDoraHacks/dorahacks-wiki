@@ -103,6 +103,61 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   </div>
 </div>
 
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/judging-organizers', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/judging-guide-organizers.jpg"
+    alt="Judging Guide for Hackathon Organizers"
+  />
+  <div class="guide-card-content">
+    <h3>
+      Judging Guide for Hackathon Organizers
+    </h3>
+    <p>
+      A step-by-step guide for hackathon organizers on how to set up and manage AI and external judging on DoraHacks.
+    </p>
+  </div>
+</div>
+
+
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/judging-judges', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/judging-guide-judges.jpg"
+    alt="Judging Guide for Judges"
+  />
+  <div class="guide-card-content">
+    <h3>
+      Judging Guide for Judges
+    </h3>
+    <p>
+      A guide for judges explaining how to access the judging dashboard, review submissions, and submit or update scores on DoraHacks.
+    </p>
+  </div>
+</div>
+
+
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/hackathon-judging-plan', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/judging-plan.jpg"
+    alt="How to Design a Hackathon Judging Plan"
+  />
+  <div class="guide-card-content">
+    <h3>
+      How to Design a Hackathon Judging Plan
+    </h3>
+    <p>
+      A practical guide for hackathon organizers on how to design judging criteria, assign judges, set timelines, and combine human and AI evaluation effectively.
+    </p>
+  </div>
+</div>
 
 <style>
 /* === Guide Card Base === */
