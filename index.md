@@ -81,6 +81,11 @@ nav_order: 1
           📋 Organizer Prep Checklist
         </a>
       </li>
+          <li>
+      <a href="https://dorahacks.io/blog/guides/hackathon-judging-plan" target="_blank">
+        📊 How to Design a Judging Plan
+      </a>
+    </li>
       <li>
       <a href="https://dorahacks.io/blog/guides/judging-organizers" target="_blank">
         🏆 Judging Guide for Organizers
@@ -89,11 +94,6 @@ nav_order: 1
     <li>
       <a href="https://dorahacks.io/blog/guides/judging-judges" target="_blank">
         🧑‍⚖️ Judging Guide for Judges
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/guides/hackathon-judging-plan" target="_blank">
-        📊 How to Design a Judging Plan
       </a>
     </li>
     </ul>
