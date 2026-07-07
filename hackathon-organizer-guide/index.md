@@ -91,11 +91,11 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
 >
   <img
     src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/organizer-prep-checklist.jpg"
-    alt="Hackathon Prep Materials Checklist"
+    alt="Host Your Own Hackathons on DoraHacks"
   />
   <div class="guide-card-content">
     <h3>
-      Hackathon Prep Materials Checklist
+      Host Your Own Hackathons on DoraHacks
     </h3>
     <p>
       A practical checklist of materials and resources organizers should prepare before hosting a hackathon on DoraHacks.
