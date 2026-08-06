@@ -149,7 +149,6 @@ nav_order: 1
     <ul>
       <li>🚩 <a href="{{ '/features/hackathon/' | relative_url }}">Hackathon</a></li>
     <li>🤖 <a href="{{ '/features/hackathon-ai/' | relative_url }}">Hackathon AI</a></li>
-      <li>🧠 <a href="{{ '/features/devrel-ai/' | relative_url }}">DevRel AI</a></li>
       <li>📦 <a href="{{ '/features/buidl/' | relative_url }}">BUIDL</a></li>
       <li>👤 <a href="{{ '/features/hacker-profile/' | relative_url }}">Hacker Profile</a></li>
       <li>🏛️ <a href="{{ '/features/organization-profile/' | relative_url }}">Organization Profile</a></li>
