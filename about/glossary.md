@@ -1,6 +1,6 @@
 ---
 title: Glossary
-parent: About
+parent: /
 nav_order: 4
 ---
 
