@@ -1,6 +1,6 @@
 ---
 title: Mission and Vision
-parent: About
+parent: /
 nav_order: 1
 ---
 
