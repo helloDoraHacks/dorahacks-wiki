@@ -155,18 +155,4 @@ nav_order: 1
       <li>🏛️ <a href="{{ '/features/organization-profile/' | relative_url }}">Organization Profile</a></li>
     </ul>
   </div>
-
-  <!-- About Column -->
-  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
-    <h2>About DoraHacks</h2>
-    <ul>
-      <li>🧭 <a href="{{ '/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
-      <li>🧑‍💻 <a href="{{ '/about/who-uses-dorahacks/' | relative_url }}">Who uses Dorahacks.io?</a></li>
-      <li>❓ <a href="{{ '/about/why-dorahacks/' | relative_url }}">Why DoraHacks?</a></li>
-      <li>📚 <a href="{{ '/about/glossary/' | relative_url }}">Glossary</a></li>
-      <li>📨 <a href="{{ '/about/contact-us/' | relative_url }}">Contact Us</a></li>
-      <li>🐞 <a href="{{ '/about/bug-reporting/' | relative_url }}">Bug Reporting</a></li>
-    </ul>
-  </div>
-
 </div>
