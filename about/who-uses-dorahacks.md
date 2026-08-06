@@ -1,6 +1,6 @@
 ---
 title: Who Uses DoraHacks.io
-parent: About
+parent: /
 nav_order: 2
 ---
 
