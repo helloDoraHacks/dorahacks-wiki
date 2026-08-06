@@ -1,6 +1,6 @@
 ---
 title: Why DoraHacks?
-parent: About
+parent: /
 nav_order: 3
 ---
 
