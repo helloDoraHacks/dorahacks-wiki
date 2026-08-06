@@ -1,6 +1,6 @@
 ---
 title: DevRel AI
-parent: Features
+parent: /
 nav_order: 3
 ---
 
