@@ -8,7 +8,7 @@ has_children: true
 
 Practical guides for hackers to participate in hackathons, build projects, and grow through DoraHacks.
 
-Learn how to get started, submit BUIDLs, and make the most of each hackathon. Click the card to read the full article.
+Learn how to get started, submit Builds, and make the most of each hackathon. Click the card to read the full article.
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
