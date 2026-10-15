@@ -36,7 +36,7 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 - **Customisable Tracks** to separate submissions into categories
 - **Discussion Forums** to share knowledge and advice
 - **Multiple Admins to delegate management of hackathons**
-- **BUIDL Approval to allow organizers to prevent unsuitable BUIDLs from being included**
+- **Build Approval to allow organizers to prevent unsuitable Builds from being included**
 
 ---
 
@@ -100,41 +100,8 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   </div>
 </div>
 
-<!-- 3. Prize Distribution -->
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/prize-distribution/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/prize-distribution.jpg"
-    alt="Prize Distribution"
-  />
-  <div class="guide-card-content">
-    <h3>New Feature: Prize Distribution with Merit Systems</h3>
-    <p>
-      Manage prize funds and distribute rewards directly from the Organizer Dashboard, with payouts and compliance handled securely by Merit Systems.
-    </p>
-  </div>
-</div>
 
-<!-- 4. BUIDL AI 4.0 -->
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/buidl-ai-4-0/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/buidl-ai-4-0.jpg"
-    alt="BUIDL AI 4.0"
-  />
-  <div class="guide-card-content">
-    <h3>DoraHacks Launches BUIDL AI 4.0: The DevRel Automation</h3>
-    <p>
-      BUIDL AI 4.0 transforms hackathons into long-term DevRel engines by automating mentorship, progress tracking, and post-hackathon growth.
-    </p>
-  </div>
-</div>
-
-<!-- 5. Organizer Dashboard Update -->
+<!-- 3. Organizer Dashboard Update -->
 <div
   class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/organizer-dashboard-update/', '_blank')"
@@ -146,24 +113,24 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   <div class="guide-card-content">
     <h3>Organizer Dashboard Update: More Control & Smarter Reviews</h3>
     <p>
-      New dashboard upgrades give organizers tighter control over submissions, clearer communication with participants, and smarter AI-assisted BUIDL reviews.
+      New dashboard upgrades give organizers tighter control over submissions, clearer communication with participants, and smarter AI-assisted Build reviews.
     </p>
   </div>
 </div>
 
-<!-- 6. From Builder to Organizer -->
+<!-- 4. From Builder to Organizer -->
 <div
   class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/buidl-ai-3-0/', '_blank')"
+  onclick="window.open('https://dorahacks.io/blog/news/hackathon-ai-3-0/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/buidl-ai-3-0.jpg"
-    alt="BUIDL AI 3.0"
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/hackathon-ai-3-0.jpg"
+    alt="Hackathon AI 3.0"
   />
   <div class="guide-card-content">
     <h3>From Builder to Organizer: The Global Hackathon Movement</h3>
     <p>
-      BUIDL AI 3.0 lowers the operational barrier for builders to become organizers through AI-assisted setup, judging, and community support.
+      Hackathon AI 3.0 lowers the operational barrier for builders to become organizers through AI-assisted setup, judging, and community support.
     </p>
   </div>
 </div>
