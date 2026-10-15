@@ -35,8 +35,8 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 - **Hackathon Bounties** to specify goals of submitted projects
 - **Customisable Tracks** to separate submissions into categories
 - **Discussion Forums** to share knowledge and advice
-- **Multiple Admins to delegate management of hackathons**
-- **Build Approval to allow organizers to prevent unsuitable Builds from being included**
+- **Multiple Admins** to delegate management of hackathons
+- **Build Approval** to allow organizers to prevent unsuitable Builds from being included
 
 ---
 
