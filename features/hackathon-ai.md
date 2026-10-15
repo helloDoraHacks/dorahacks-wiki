@@ -6,7 +6,7 @@ nav_order: 2
 
 # Hackathon AI
 
-🔑 Hackathon AI access: [https://dorahacks.io/buidl-ai](https://dorahacks.io/buidl-ai)
+🔑 Hackathon AI access: [https://dorahacks.io/hackathon-ai](https://dorahacks.io/hackathon-ai)
 
 AI-powered infrastructure for automating hackathon operations and improving efficiency across design, execution, and scaling.
 
@@ -56,21 +56,21 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
     </div>
   </div>
 
-  <!-- BUIDL AI 3.0 -->
+  <!-- Hackathon AI 3.0 -->
   <div
     class="guide-card"
-    onclick="window.open('https://dorahacks.io/blog/news/buidl-ai-3-0/', '_blank')"
+    onclick="window.open('https://dorahacks.io/blog/news/hackathon-ai-3-0/', '_blank')"
   >
     <img
       src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/buidl-ai-3-0.jpg"
-      alt="BUIDL AI 3.0"
+      alt="Hackathon AI 3.0"
     />
     <div class="guide-card-content">
       <h3>
-        BUIDL AI 3.0: From Builder to Organizer
+        Hackathon AI 3.0: From Builder to Organizer
       </h3>
       <p>
-        How BUIDL AI 3.0 lowers the barrier for organizing hackathons through AI-assisted setup, review automation, and operational guidance.
+        How Hackathon AI 3.0 lowers the barrier for organizing hackathons through AI-assisted setup, review automation, and operational guidance.
       </p>
     </div>
   </div>
