@@ -59,7 +59,7 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   <!-- Hackathon AI 3.0 -->
   <div
     class="guide-card"
-    onclick="window.open('https://dorahacks.io/blog/news/hackathon-ai-3-0/', '_blank')"
+    onclick="window.open('https://dorahacks.io/blog/news/hackathon-ai-3.0/', '_blank')"
   >
     <img
       src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/hackathon-ai-3-0.jpg"
