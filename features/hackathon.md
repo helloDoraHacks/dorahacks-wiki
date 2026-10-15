@@ -124,7 +124,7 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
   onclick="window.open('https://dorahacks.io/blog/news/hackathon-ai-3-0/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/hackathon-ai-3-0.jpg"
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/hackathon-ai-3.0.jpg"
     alt="Hackathon AI 3.0"
   />
   <div class="guide-card-content">
