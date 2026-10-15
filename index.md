@@ -33,7 +33,7 @@ nav_order: 1
 
 <br><br>
 
-<a href="https://dorahacks.io/" target="_blank">DoraHacks</a> creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
+<a href="https://dorahacks.io/" target="_blank">DoraHacks</a> creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its Hackathon AI capabilities for organizing hackathons and funding open source initiatives.
 
 </div>
 
@@ -149,7 +149,7 @@ nav_order: 1
     <ul>
       <li>🚩 <a href="{{ '/features/hackathon/' | relative_url }}">Hackathon</a></li>
     <li>🤖 <a href="{{ '/features/hackathon-ai/' | relative_url }}">Hackathon AI</a></li>
-      <li>📦 <a href="{{ '/features/buidl/' | relative_url }}">BUIDL</a></li>
+      <li>📦 <a href="{{ '/features/build/' | relative_url }}">Build</a></li>
       <li>👤 <a href="{{ '/features/hacker-profile/' | relative_url }}">Hacker Profile</a></li>
       <li>🏛️ <a href="{{ '/features/organization-profile/' | relative_url }}">Organization Profile</a></li>
     </ul>
