@@ -72,6 +72,11 @@ nav_order: 1
         </a>
       </li>
       <li>
+        <a href="https://dorahacks.io/blog/guides/custom-hackathon-setup" target="_blank">
+          🛠️ Customize Your Hackathon
+        </a>
+      </li>
+      <li>
         <a href="https://dorahacks.io/blog/guides/diy-your-hackathon/" target="_blank">
           🧰 Manage Your DIY Hackathon
         </a>
