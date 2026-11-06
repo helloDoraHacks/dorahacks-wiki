@@ -48,6 +48,24 @@ Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dora
 
 <div
   class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/news/custom-hackathon-setup/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/hellodorahacks/dorahacks-wiki/main/assets/custom-hackathon-setup.jpg"
+    alt="Hackathon Preparation"
+  />
+  <div class="guide-card-content">
+    <h3>
+      Customize Your Hackathon on DoraHacks: Five Setup Decisions Before You Launch
+    </h3>
+    <p>
+      This article is about getting the basics right. Review, judging, and communication all inherit whatever you decide here.
+    </p>
+  </div>
+</div>
+
+<div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/hackathon-operation/', '_blank')"
 >
   <img
